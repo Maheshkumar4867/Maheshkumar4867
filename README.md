@@ -1,16 +1,6 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║  HOW TO USE THIS README                                      ║
-  ║                                                              ║
-  ║  1. Upload profile.svg to this same repo (root folder)       ║
-  ║  2. The README auto-renders your full dark UI as an image    ║
-  ║  3. All links still work via the clickable badges below      ║
-  ╚══════════════════════════════════════════════════════════════╝
--->
-
 <div align="center">
 
-![Mahesh Kumar - Full Stack Developer](./profile.svg)
+![Mahesh Kumar](./profile.svg)
 
 </div>
 
@@ -22,5 +12,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:k.maheshkumar8522@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1D9E75?style=flat-square&logo=firefox&logoColor=white)](https://maheshkumardev.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Maheshkumar4867)
+![Views](https://komarev.com/ghpvc/?username=Maheshkumar4867&color=1D9E75&style=flat-square)
 
 </div>
