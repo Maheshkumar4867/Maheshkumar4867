@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=120&section=header&text=&fontSize=0" width="100%"/>
-
-</div>
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=110&section=header" width="100%"/>
 
 # Mahesh Kumar
 
-**Full Stack Developer · OTT & Video Streaming Specialist · Smart TV Engineer**
+**Full Stack Developer &nbsp;·&nbsp; OTT & Video Streaming Specialist &nbsp;·&nbsp; Smart TV Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maheshkumardev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:k.maheshkumar8522@gmail.com)
@@ -16,7 +12,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Maheshkumar4867)
 ![Views](https://komarev.com/ghpvc/?username=Maheshkumar4867&color=1D9E75&style=flat-square&label=profile+views)
 
-![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-1D9E75?style=flat-square)
+![Status](https://img.shields.io/badge/%F0%9F%9F%A2%20Status-Open%20to%20Opportunities-1D9E75?style=flat-square)
 
 </div>
 
@@ -25,10 +21,10 @@
 ## 🧑‍💻 About Me
 
 ```
-🎬  3+ years in OTT & video streaming applications
+🎬  3+ years building OTT & video streaming applications
 📺  Smart TV development — Samsung Tizen & LG WebOS
 ⚡  HLS/DASH adaptive streaming & DRM (Widevine, PlayReady)
-⚛️  Full stack with React, TypeScript, Node.js, Next.js
+⚛️  Full stack: React.js · TypeScript · Node.js · Next.js · Redux Toolkit
 🚀  Passionate about performance, scalability & great UX
 📍  Vijayawada, Andhra Pradesh, India
 ```
@@ -44,19 +40,21 @@
 ### 🎥 OTT & Streaming
 - HLS / DASH Adaptive Bitrate
 - DRM — Widevine & PlayReady
-- Custom Video Player Builds
-- Low-Latency CDN Pipelines
-- FFmpeg Media Processing
+- HLS.js / Dash.js custom players
+- Google IMA SDK (pre/mid/post-roll ads)
+- Thumbnail seekbar & multi-audio
+- FFmpeg media processing
 
 </td>
 <td valign="top" width="33%">
 
 ### ⚛️ Frontend Engineering
 - React.js · TypeScript · Next.js
+- Redux Toolkit · React Query
 - TailwindCSS · Vite · Webpack
-- React Query · Socket.io
-- Performance Optimization
-- Component Architecture
+- Socket.io · Norigin Spatial Nav
+- Performance optimization
+- Reusable component architecture
 
 </td>
 <td valign="top" width="33%">
@@ -64,13 +62,73 @@
 ### 📺 Smart TV Platforms
 - Samsung Tizen OS
 - LG WebOS
-- Remote Navigation UX
-- TV-Specific Performance Tuning
-- Cross-Platform Delivery
+- Remote navigation UX
+- EPG (Electronic Program Guide)
+- App packaging & certification
+- LG Content Store & Samsung Smart Hub
 
 </td>
 </tr>
 </table>
+
+---
+
+## 💼 Professional Experience
+
+<details open>
+<summary><strong>🟢 Software Engineer &nbsp;—&nbsp; Saranyu Technologies &nbsp;|&nbsp; Oct 2023 – Present</strong></summary>
+
+> Building and optimizing Smart TV OTT applications for Samsung Tizen and LG WebOS platforms using React.js, Redux Toolkit, and custom video player SDKs. Focused on advanced playback, monetization, and performance across multiple Smart TV models.
+
+**Key Achievements:**
+- 🎬 Custom thumbnail seekbar with HLS/DASH integration for video preview during seek operations
+- 📢 Integrated Google IMA SDK for pre-roll, mid-roll, and post-roll ads, boosting monetization
+- 🔀 Adaptive streaming (HLS.js, Dash.js) with multi-audio and subtitle support via customizable UI
+- 🎮 Advanced TV remote navigation with custom on-screen keyboard using Norigin Spatial Navigation
+- 🗃️ Scalable state management with Redux Toolkit across 50+ Smart TV models
+- 🚀 Deployed to LG Content Store & Samsung Smart Hub — full packaging, certification & submission
+
+</details>
+
+<details>
+<summary><strong>⬜ Trainee Software Engineer &nbsp;—&nbsp; Saranyu Technologies &nbsp;|&nbsp; Nov 2022 – Oct 2023</strong></summary>
+
+> Built and delivered Smart TV applications on WebOS and Tizen with modern React architecture. Worked on real-time video playback, EPG system, and remote-optimized UI for large-screen devices.
+
+**Key Achievements:**
+- 📺 Built Smart TV apps on WebOS & TizenOS from scratch with responsive large-screen layouts
+- 📅 Implemented Electronic Program Guide (EPG) with real-time schedule data integration
+- ▶️ Reusable video player components (play, pause, seek) with TV remote navigation
+- 🗃️ Integrated Redux Toolkit for scalable and maintainable app state management
+- 🤝 Collaborated on Smart TV SDK enhancements through code reviews & debugging
+- 📦 Deep understanding of adaptive streaming, app packaging & Smart TV deployment
+
+</details>
+
+<details>
+<summary><strong>⬜ Web Development Intern &nbsp;—&nbsp; Null Class &nbsp;|&nbsp; Jun 2022</strong></summary>
+
+> End-to-end web development tasks focusing on front-end and back-end integration. Contributed to live client projects and improved code performance.
+
+**Key Achievements:**
+- ⚛️ Developed and integrated UI components using React and REST APIs
+- ⚡ Enhanced performance through code optimization and clean architecture
+- 🤝 Collaborated with mentors to add new functionalities and improve UX in client projects
+
+</details>
+
+<details>
+<summary><strong>⬜ MERN Stack Trainee &nbsp;—&nbsp; NxtWave Disruptive Technologies &nbsp;|&nbsp; Dec 2021 – May 2022</strong></summary>
+
+> Intensive full-stack development program focused on the MERN stack. Built end-to-end web applications with real-world problem-solving exercises.
+
+**Key Achievements:**
+- 🍃 Full-stack apps using MongoDB, Express.js, React, and Node.js
+- 🎨 Built responsive, accessible UIs with secure REST APIs
+- 🔐 Implemented authentication, authorization, and form validation workflows
+- 🐛 Improved debugging and deployment skills through live project challenges
+
+</details>
 
 ---
 
@@ -86,6 +144,7 @@
 **Frontend**
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -112,27 +171,15 @@
 
 ---
 
-## 💼 Experience
-
-**2022 — Present &nbsp;|&nbsp; Full Stack Developer · OTT & Video Streaming**
-
-> Building scalable streaming platforms with adaptive bitrate playback, DRM-protected content pipelines, and cross-platform delivery across web and Smart TV (Tizen & WebOS) ecosystems.
-
-**2021 — 2022 &nbsp;|&nbsp; Frontend Developer · React.js & TypeScript**
-
-> Developed high-performance React applications with modern tooling — Vite, Webpack, TailwindCSS — and integrated real-time features via Socket.io and React Query.
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Maheshkumar4867&theme=dark&hide_border=true&include_all_commits=false&count_private=false" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Maheshkumar4867&theme=dark&hide_border=true&include_all_commits=false&count_private=false" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maheshkumar4867&theme=dark&hide_border=true&layout=compact" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maheshkumar4867&theme=dark&hide_border=true&layout=compact" height="165"/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Maheshkumar4867&theme=dark&hide_border=true" width="60%"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Maheshkumar4867&theme=dark&hide_border=true" width="55%"/>
 
 </div>
 
@@ -155,7 +202,5 @@
 </div>
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=80&section=footer" width="100%"/>
-
 </div>
