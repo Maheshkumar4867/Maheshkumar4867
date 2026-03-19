@@ -24,9 +24,9 @@
 🎬  3+ years building OTT & video streaming applications
 📺  Smart TV development — Samsung Tizen & LG WebOS
 ⚡  HLS/DASH adaptive streaming & DRM (Widevine, PlayReady)
-⚛️  Full stack: React.js · TypeScript · Node.js · Next.js · Redux Toolkit
+⚛️  Full stack: React.js · TypeScript · Node.js · Redux Toolkit
 🚀  Passionate about performance, scalability & great UX
-📍  Vijayawada, Andhra Pradesh, India
+📍  Bangalore, Karnataka, India
 ```
 
 ---
@@ -41,7 +41,7 @@
 - HLS / DASH Adaptive Bitrate
 - DRM — Widevine & PlayReady
 - HLS.js / Dash.js custom players
-- Google IMA SDK (pre/mid/post-roll ads)
+- Google IMA SDK (pre/mid/post-roll)
 - Thumbnail seekbar & multi-audio
 - FFmpeg media processing
 
@@ -73,68 +73,9 @@
 
 ---
 
-## 💼 Professional Experience
-
-<details open>
-<summary><strong>🟢 Software Engineer &nbsp;—&nbsp; Saranyu Technologies &nbsp;|&nbsp; Oct 2023 – Present</strong></summary>
-
-> Building and optimizing Smart TV OTT applications for Samsung Tizen and LG WebOS platforms using React.js, Redux Toolkit, and custom video player SDKs. Focused on advanced playback, monetization, and performance across multiple Smart TV models.
-
-**Key Achievements:**
-- 🎬 Custom thumbnail seekbar with HLS/DASH integration for video preview during seek operations
-- 📢 Integrated Google IMA SDK for pre-roll, mid-roll, and post-roll ads, boosting monetization
-- 🔀 Adaptive streaming (HLS.js, Dash.js) with multi-audio and subtitle support via customizable UI
-- 🎮 Advanced TV remote navigation with custom on-screen keyboard using Norigin Spatial Navigation
-- 🗃️ Scalable state management with Redux Toolkit across 50+ Smart TV models
-- 🚀 Deployed to LG Content Store & Samsung Smart Hub — full packaging, certification & submission
-
-</details>
-
-<details>
-<summary><strong>⬜ Trainee Software Engineer &nbsp;—&nbsp; Saranyu Technologies &nbsp;|&nbsp; Nov 2022 – Oct 2023</strong></summary>
-
-> Built and delivered Smart TV applications on WebOS and Tizen with modern React architecture. Worked on real-time video playback, EPG system, and remote-optimized UI for large-screen devices.
-
-**Key Achievements:**
-- 📺 Built Smart TV apps on WebOS & TizenOS from scratch with responsive large-screen layouts
-- 📅 Implemented Electronic Program Guide (EPG) with real-time schedule data integration
-- ▶️ Reusable video player components (play, pause, seek) with TV remote navigation
-- 🗃️ Integrated Redux Toolkit for scalable and maintainable app state management
-- 🤝 Collaborated on Smart TV SDK enhancements through code reviews & debugging
-- 📦 Deep understanding of adaptive streaming, app packaging & Smart TV deployment
-
-</details>
-
-<details>
-<summary><strong>⬜ Web Development Intern &nbsp;—&nbsp; Null Class &nbsp;|&nbsp; Jun 2022</strong></summary>
-
-> End-to-end web development tasks focusing on front-end and back-end integration. Contributed to live client projects and improved code performance.
-
-**Key Achievements:**
-- ⚛️ Developed and integrated UI components using React and REST APIs
-- ⚡ Enhanced performance through code optimization and clean architecture
-- 🤝 Collaborated with mentors to add new functionalities and improve UX in client projects
-
-</details>
-
-<details>
-<summary><strong>⬜ MERN Stack Trainee &nbsp;—&nbsp; NxtWave Disruptive Technologies &nbsp;|&nbsp; Dec 2021 – May 2022</strong></summary>
-
-> Intensive full-stack development program focused on the MERN stack. Built end-to-end web applications with real-world problem-solving exercises.
-
-**Key Achievements:**
-- 🍃 Full-stack apps using MongoDB, Express.js, React, and Node.js
-- 🎨 Built responsive, accessible UIs with secure REST APIs
-- 🔐 Implemented authentication, authorization, and form validation workflows
-- 🐛 Improved debugging and deployment skills through live project challenges
-
-</details>
-
----
-
 ## 🛠️ Tech Stack
 
-**Core Skills**
+**Core**
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -146,10 +87,10 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 
@@ -161,6 +102,14 @@
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
 
+**Smart TV & Media SDKs**
+
+![Samsung Tizen](https://img.shields.io/badge/Samsung_Tizen-1428A0?style=for-the-badge&logo=samsung&logoColor=white)
+![LG WebOS](https://img.shields.io/badge/LG_WebOS-A50034?style=for-the-badge&logo=lg&logoColor=white)
+![HLS.js](https://img.shields.io/badge/HLS.js-CC0000?style=for-the-badge&logo=javascript&logoColor=white)
+![Dash.js](https://img.shields.io/badge/Dash.js-0077C8?style=for-the-badge&logo=javascript&logoColor=white)
+![Google IMA SDK](https://img.shields.io/badge/Google_IMA_SDK-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
 **Tooling**
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -168,6 +117,64 @@
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+
+---
+
+## 💼 Professional Experience
+
+<details open>
+<summary><strong>🟢 Software Engineer &nbsp;—&nbsp; Saranyu Technologies &nbsp;|&nbsp; Oct 2023 – Present</strong></summary>
+<br>
+
+> Building and optimizing Smart TV OTT applications for Samsung Tizen and LG WebOS using React.js, Redux Toolkit, and custom video player SDKs. Focused on advanced playback, monetization, and performance across multiple Smart TV models.
+
+| Achievement | Details |
+|---|---|
+| 🎬 Thumbnail Seekbar | HLS/DASH integration for video preview during seek operations |
+| 📢 Ad Monetization | Google IMA SDK for pre-roll, mid-roll, and post-roll ads |
+| 🔀 Adaptive Streaming | HLS.js & Dash.js with multi-audio and subtitle support |
+| 🎮 TV Navigation | Custom on-screen keyboard via Norigin Spatial Navigation |
+| 🗃️ State Management | Redux Toolkit scaling across 50+ Smart TV models |
+| 🚀 App Deployment | LG Content Store & Samsung Smart Hub — packaging & certification |
+
+</details>
+
+<details>
+<summary><strong>⬜ Trainee Software Engineer &nbsp;—&nbsp; Saranyu Technologies &nbsp;|&nbsp; Nov 2022 – Oct 2023</strong></summary>
+<br>
+
+> Built and delivered Smart TV applications on WebOS and Tizen with modern React architecture. Worked on real-time video playback, EPG system, and remote-optimized UI for large-screen devices.
+
+- 📺 Built Smart TV apps on WebOS & TizenOS from scratch with responsive large-screen layouts
+- 📅 Implemented EPG (Electronic Program Guide) with real-time schedule data integration
+- ▶️ Reusable video player components (play, pause, seek) with TV remote navigation
+- 🗃️ Redux Toolkit for scalable and maintainable app state management
+- 📦 Deep expertise in adaptive streaming, app packaging & Smart TV deployment
+
+</details>
+
+<details>
+<summary><strong>⬜ Web Development Intern &nbsp;—&nbsp; Null Class &nbsp;|&nbsp; Jun 2022</strong></summary>
+<br>
+
+> End-to-end web development focusing on front-end and back-end integration on live client projects.
+
+- ⚛️ Developed and integrated UI components using React and REST APIs
+- ⚡ Enhanced performance through code optimization and clean architecture
+
+</details>
+
+<details>
+<summary><strong>⬜ MERN Stack Trainee &nbsp;—&nbsp; NxtWave Disruptive Technologies &nbsp;|&nbsp; Dec 2021 – May 2022</strong></summary>
+<br>
+
+> Intensive full-stack MERN program — built end-to-end web apps with auth, REST APIs, and deployment.
+
+- 🍃 Full-stack apps using MongoDB, Express.js, React, and Node.js
+- 🔐 Authentication, authorization, and form validation workflows
+- 🎨 Responsive, accessible UIs with secure REST APIs
+
+</details>
 
 ---
 
@@ -195,7 +202,7 @@
 
 <br/>
 
-*⚡ Open to exciting roles in OTT, streaming, and full-stack development!*
+*⚡ Open to exciting roles in OTT, streaming, and full-stack development — based in Bangalore, India!*
 
 [![](https://visitcount.itsvg.in/api?id=Maheshkumar4867&icon=2&color=1)](https://visitcount.itsvg.in)
 
